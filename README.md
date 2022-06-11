@@ -1,2 +1,2 @@
 # Praxiskurs-Statistik-mit-R
-Preis- und Marktanalyse incl. Preisregression 
+Preis- und Marktanalyse mit Preisregression 
