@@ -1,5 +1,5 @@
 ---
-title: "Praxiskurs Statistik mit R"
+title: "Preis- und Marktanalyse mit Preisregression"
 subtitle: "Jannik Bochynek und Jan Niehoff"
 output: html_notebook
 
